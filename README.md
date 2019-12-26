@@ -1,2 +1,2 @@
 # chapter6
-practice chapter 6
+This is aravinda for practicing spark gudie chapter 6
